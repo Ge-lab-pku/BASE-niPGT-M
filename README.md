@@ -132,3 +132,6 @@ The confidence levels are categorized based on the following standards:
         + ≥ 0.75 or ≤ -0.5 for cultural media.
         + ≥ 0.85 or ≤ -0.7 for cultural media of discarded embryos.
     + SNP density ≤ 0.001.
+
+# Disclosure
+L.H., H.G., R.Z. and X.S.X. are coinventors on patent application PCT/CN2023/125605 that includes BASE-niPGT-M.
