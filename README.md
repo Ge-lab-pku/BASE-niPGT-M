@@ -93,6 +93,8 @@ parent                  # Indicates the parent who carries the disease-causing v
 sex                     # The sex of the sample. Set this to "Male" or "Female" for sex chromosomes, and None for autosomes
 ```
 
+Running **DashM_Main.py** also need the common SNP file from https://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/00-common_all.vcf.gz
+
 Then run DashM_Main.py
 
 ```bash
