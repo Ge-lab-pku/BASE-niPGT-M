@@ -73,7 +73,7 @@ sample_sheet.tsv :
 **Required Resource**:  
 The pipeline requires `data/00-common_all.vcf.txt.gz`, derived from:  
 https://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/00-common_all.vcf.gz  
-*(Processed to extract relevant SNP information)*
+*(Processed to extract SNP information)*
 
 
 ## Execution Command
