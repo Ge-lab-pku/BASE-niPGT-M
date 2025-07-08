@@ -80,7 +80,6 @@ https://ftp.ncbi.nih.gov/snp/organisms/human_9606_b151_GRCh37p13/VCF/00-common_a
 ```bash
 nextflow run main.nf \
   --sample_sheet sample_sheet.tsv \
-  -profile slurm \
   -resume \
   --outdir results
 ```
