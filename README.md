@@ -53,8 +53,8 @@ sample_sheet.tsv :
 
 |  familyID | father  |  mother | jointvcf  | phasedvcf  | chrom  | position  | sample  | CMtype  | parent  | sex |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
-|FAM001|1-WK  | 1-ZQ  | /data/joint_calling_ann.vcf.gz  | /data/pahsed.vcf.gz  | 1  | 209974689  | CM1-1-01|  T-SCM |  mother | unknown  |
-|FAM001| 1-WK  |   1-ZQ |  /data/joint_calling_ann.vcf.gz |  /data/pahsed.vcf.gz |   X  | 32716070  | CM1-1-01|  T-SCM |  mother | Female|
+|FAM001|1-WK  | 1-ZQ  | /data/joint_calling_ann.vcf.gz  | /data/pahsed.vcf.gz  | 1  | 209974689  | CM1-1|  T-SCM |  mother | unknown  |
+|FAM001| 1-WK  |   1-ZQ |  /data/joint_calling_ann.vcf.gz |  /data/pahsed.vcf.gz |   X  | 32716070  | CM1-1|  T-SCM |  mother | Female|
 
 
 **Column Descriptions**:
