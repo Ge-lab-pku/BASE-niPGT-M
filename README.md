@@ -18,6 +18,15 @@ Unlike previous approaches for high-quality sequencing data, which often predete
 
 # Install
 
+The following external tools are required:
+
+## External software and package versions tested successfully
++ `nextflow` (v24.04.4.5917)
++ `bcftools` (v1.9)
++ `tabix` (v1.15.1)
++ `python` (v3.11.2) 
++ `R` (v4.2.0) with the `vcfR` package 
+
 This project is primarily written in Python. The required Python packages are:
 
 ## Python Packages
@@ -29,13 +38,7 @@ This project is primarily written in Python. The required Python packages are:
 + `seaborn`
 + `openpyxl`
 
-Additionally, the following external tools are required:
 
-## External Software and package
-
-+ `bcftools`
-+ `tabix`
-+ `R` with the `vcfR` package
 
 # Pipeline Overview
 
