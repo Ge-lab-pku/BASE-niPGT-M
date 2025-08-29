@@ -38,7 +38,9 @@ This project is primarily written in Python. The required Python packages are:
 + `seaborn`
 + `openpyxl`
 
+#### Installation Time
 
+The full installation process (including downloading dependencies) typically takes **5 to 10 minutes** on a system.
 
 # Pipeline Overview
 
@@ -86,6 +88,11 @@ nextflow run main.nf \
   -resume \
   --outdir results
 ```
+
+#### Runtime Performance
+
+*   **Per-sample runtime:** ~6 minutes
+*   **Tested system:** Red Hat Enterprise Linux 7 (RHEL 7 / CentOS 7)
 
 #### The confidence levels are categorized based on the following standards:
 
